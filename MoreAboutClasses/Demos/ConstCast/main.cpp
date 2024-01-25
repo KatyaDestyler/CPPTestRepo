@@ -28,4 +28,4 @@ int main()
 
    cout << "The larger string capitalized is: " << maxPtr << endl;
    return 0;
-}  //  end main
+}  // end main
